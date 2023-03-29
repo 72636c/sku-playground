@@ -1,0 +1,7 @@
+# managed by sku
+*.less.d.ts
+/Users/rling/Code/github.com/seek-jobs/indie-demi/dist-storybook/
+/Users/rling/Code/github.com/seek-jobs/indie-demi/dist/
+coverage/
+report/
+# end managed by sku

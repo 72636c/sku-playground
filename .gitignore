@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+
+# managed by sku
+.eslintrc
+.prettierrc
+/Users/rling/Code/github.com/seek-jobs/indie-demi/dist-storybook/
+/Users/rling/Code/github.com/seek-jobs/indie-demi/dist/
+coverage/
+report/
+tsconfig.json
+# end managed by sku
